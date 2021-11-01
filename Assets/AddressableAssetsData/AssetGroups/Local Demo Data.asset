@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local Demo Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Local Demo Data
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 343343c768be4204fa80566cd8e6aed5
+  m_SerializeEntries:
+  - m_GUID: d6cf7ed2faf3b47eb8f72eaa9c1a495a
+    m_Address: SpaceShooter2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7894d5b476c464f4cbbb8037a8f3a29b
+    m_Address: Assets/Test/3d  Sprite Atlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d451e9c39546e33488cee5d305412907
+    m_Address: Assets/SpaceShooter/Prefabs/ennmies npc 2  line.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: deab140466b43274e96412631bd19b64
+    m_Address: SpaceShooter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: af6f92634a9f9274fba1ed05718996e7
+    m_Address: Assets/SpaceShooter/Prefabs/ennmies npc 1  line.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d85aebba2b2a75e4a99724518665994c
+    m_Address: wave0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spaceHazards
+  - m_GUID: a8d6ffcbf87ddf54680e96704d529e88
+    m_Address: wave2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8c122379f19a3846bbb8c95882a6ed8
+    m_Address: wave1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa846ce25e653e5439632f5fb4ce4ffe
+    m_Address: NPC1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ddef7af40eb8f947a4e85be092ba3de
+    m_Address: NPC3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16dda0d37bbfdd541acd5d3ee5c90779
+    m_Address: wave3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4fae40ed7255f5469645ae7d7115aa5
+    m_Address: wave4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fce4634f4f444d449b5c6557e6f1d112
+    m_Address: Assets/waves/wave5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e397a80e2856b37459bebe70d1e013a1
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 048acd6f751689a41b9053bbf472e82f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f36e8d868c16334418e9fd3ef3d6cf1b, type: 2}

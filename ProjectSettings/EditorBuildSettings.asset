@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SpaceShooter_bootstrap.unity
+    guid: b5c7d763e3b434d4ab58072aafa10880
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 4f5789b7affbe384aa55e6d0d58ad0d8,
+      type: 2}
